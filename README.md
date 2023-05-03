@@ -1,3 +1,5 @@
+I make things.
+
 ### Repo guide
 #### Various
 * [feigbot](https://github.com/oyvinw/feigbot) - A Discord bot that uses OpenAI LLM's to commentate, analyse, and make predictions based data from Dota 2, complete with voice synthesis.
@@ -5,7 +7,7 @@
 * [Advent of Code](https://github.com/oyvinw/Advent-of-Code) - Some advent of code solutions, with a couple of visualisations. All done in Rust.
 
 #### Game Jams
-Various Game Jam games i've build solo and with others over 48/72 hours. Don't expect high code quality.
+Various Game Jam games i've build solo and with others over 48/72 hours. Don't expect high code quality or informative repositories. Use the link at the bottom to see the results :)
 * [Village of Plenty](https://github.com/coldays/Cards-of-Dunshire) - Game made for *Ludum Dare 52* with a team in 72 hours.
 * [The Last Line](https://github.com/oyvinw/ldjam50) - Game made for *Ludum Dare 50* by myself in 48 hours.
 * [Potion Hero](https://github.com/oyvinw/potion_hero) - Game made for *Ludum Dare 49* with a team in 72 hours.
