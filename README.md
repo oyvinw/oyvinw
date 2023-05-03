@@ -1,6 +1,6 @@
 ### Repo guide
 #### Various
-* [feigbot](https://github.com/oyvinw/feigbot) - A Discord bot that uses OpenAI LLM's to commentate, analyse, and make predictions on data from Dota 2, complete with voice synthesis.
+* [feigbot](https://github.com/oyvinw/feigbot) - A Discord bot that uses OpenAI LLM's to commentate, analyse, and make predictions based data from Dota 2, complete with voice synthesis.
 
 #### Game Jams
 Various Game Jam games i've build solo and with others over 48/72 hours. Don't expect high code quality.
