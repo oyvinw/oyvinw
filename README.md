@@ -4,7 +4,7 @@ I make things.
 #### Various
 * [feigbot](https://github.com/oyvinw/feigbot) - A Discord bot that uses OpenAI LLM's to commentate, analyse, and make predictions based data from Dota 2, complete with voice synthesis.
 * [rgol](https://github.com/oyvinw/rgol) - Conways game of life, implemented in Bevvy using Rust
-* [Advent of Code](https://github.com/oyvinw/Advent-of-Code) - Some advent of code solutions, with a couple of visualisations. All done in Rust.
+* [Advent of Code](https://github.com/oyvinw/Advent-of-Code) - Some advent of code solutions, with a couple of visualisations.
 
 #### Game Jams
 Various Game Jam games i've build solo and with others over 48/72 hours. Don't expect high code quality or informative repositories. Use the link at the bottom to see the results :)
